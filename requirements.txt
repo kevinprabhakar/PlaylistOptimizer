@@ -1,0 +1,4 @@
+pandas==0.20.3
+numpy==1.14.3
+spotipy==2.4.4
+scikit_learn==0.19.2
